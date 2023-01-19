@@ -1,0 +1,1 @@
+print("Hello,{{cookiecutter.file_name}}")
